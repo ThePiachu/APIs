@@ -1,6 +1,6 @@
 # APIs
 
-A collection of APIs for some popular Bitcoin websites:
+A collection of APIs for some popular Bitcoin websites for Google App Engine Go:
 
 - Bitstamp
 - Blockchain
